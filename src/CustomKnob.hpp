@@ -25,7 +25,9 @@ struct CustomKnob : SvgKnob {
         // Limit rotation like a real potentiometer (270° instead of 360°)
         minAngle = -0.75 * M_PI;  // -135°
         maxAngle = 0.75 * M_PI;   // +135°
-        
+        if (shadow) {
+            shadow->opacity = 0.f;   // make it fully transparent
+        }
         // Smooth continuous rotation (no snapping)
         snap = false;
         smooth = true;
