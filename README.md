@@ -41,12 +41,6 @@ Each channel (A, B, C, D) compares an input signal against a configurable voltag
 - **Pairs OR** (Red LED): 10V when either A+B or C+D pair is active
 - **Pairs XOR** (Red LED): 10V when exactly one pair is active
 
-### Technical Details
-- **Hysteresis**: 0.1V hysteresis prevents oscillation at window boundaries
-- **Window Calculation**: Upper edge = center + (size/2), Lower edge = center - (size/2)
-- **Minimum Size**: 0.0001V to prevent division by zero
-- **Panel Size**: 20HP
-
 ### Use Cases
 - **Conditional Routing**: Use WIN outputs to trigger events when signals are in specific ranges
 - **Signal Analysis**: Monitor multiple signals simultaneously with visual feedback
