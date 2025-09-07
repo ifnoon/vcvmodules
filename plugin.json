@@ -1,0 +1,27 @@
+{
+  "slug": "ifnoon",
+  "name": "ifnoon",
+  "version": "1.0.0",
+  "license": "GPL-3.0-or-later",
+  "brand": "ifnoon",
+  "author": "ifnoon",
+  "authorEmail": "maxi.enmity.8f@icloud.com",
+  "authorUrl": "https://github.com/ifnoon",
+  "pluginUrl": "https://github.com/ifnoon/ifnoon",
+  "manualUrl": "https://github.com/ifnoon/ifnoon/blob/main/README.md",
+  "sourceUrl": "https://github.com/ifnoon/ifnoon",
+  "donateUrl": "",
+  "changelogUrl": "https://github.com/ifnoon/ifnoon/blob/main/CHANGELOG.md",
+  "modules": [
+    {
+      "slug": "Comparally",
+      "name": "Comparally",
+      "description": "Advanced 4-channel window comparator with logic outputs for complex signal analysis and conditional routing",
+      "tags": [
+        "Comparator",
+        "Logic",
+        "Utility"
+      ]
+    }
+  ]
+}
