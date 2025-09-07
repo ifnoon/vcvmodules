@@ -7,11 +7,11 @@
   "author": "ifnoon",
   "authorEmail": "maxi.enmity.8f@icloud.com",
   "authorUrl": "https://github.com/ifnoon",
-  "pluginUrl": "https://github.com/ifnoon/ifnoon",
-  "manualUrl": "https://github.com/ifnoon/ifnoon/blob/main/README.md",
-  "sourceUrl": "https://github.com/ifnoon/ifnoon",
+  "pluginUrl": "https://github.com/ifnoon/vcvmodules",
+  "manualUrl": "https://github.com/ifnoon/vcvmodules/blob/main/README.md",
+  "sourceUrl": "https://github.com/ifnoon/vcvmodules",
   "donateUrl": "",
-  "changelogUrl": "https://github.com/ifnoon/ifnoon/blob/main/CHANGELOG.md",
+  "changelogUrl": "https://github.com/ifnoon/vcvmodules/blob/main/CHANGELOG.md",
   "modules": [
     {
       "slug": "Comparally",

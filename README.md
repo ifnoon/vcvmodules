@@ -1,6 +1,6 @@
 # ifnoon
 
-![Comparally Module](Comparally.png)
+![Comparally Module](comparally.png)
 
 ## Comparally - Advanced 4-Channel Window Comparator
 
