@@ -18,9 +18,9 @@
       "name": "Comparally",
       "description": "Advanced 4-channel window comparator with logic outputs for complex signal analysis and conditional routing",
       "tags": [
-        "Comparator",
+        "Utility",
         "Logic",
-        "Utility"
+        "Quad"
       ]
     }
   ]
