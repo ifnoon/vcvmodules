@@ -6,7 +6,7 @@
  * plugin.cpp - VCV Rack Plugin Entry Point for ifnoon Modules
  * 
  * This file contains the plugin initialization and module registration
- * for the ifnoon plugin collection including Comparally and Matho modules.
+ * for the ifnoon plugin collection including Comparally module.
  */
 
 #include "plugin.hpp"
@@ -18,8 +18,5 @@ void init(Plugin* p) {
     
     // Register Comparally module
     p->addModel(modelComparally);
-    
-    // Register Matho module
-    p->addModel(modelMatho);
 }
 
