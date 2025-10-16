@@ -11,7 +11,7 @@
   "manualUrl": "https://github.com/ifnoon/vcvmodules/blob/main/README.md",
   "sourceUrl": "https://github.com/ifnoon/vcvmodules",
   "donateUrl": "",
-  "changelogUrl": "https://github.com/ifnoon/vcvmodules/blob/main/CHANGELOG.md",
+  "changelogUrl": "",
   "modules": [
     {
       "slug": "Comparally",
@@ -22,6 +22,17 @@
         "Logic",
         "Quad"
       ]
-    }
+    },
+           {
+             "slug": "Effecto",
+             "name": "Effecto",
+             "description": "Advanced multi-delay with chroma effects, 8 delay lines, feedback modes, freeze/purge, and built-in reverb",
+             "tags": [
+               "Effect",
+               "Delay",
+               "Reverb",
+               "Digital"
+             ]
+           }
   ]
 }
